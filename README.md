@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MambetniyazovAmir
-- 👀 I’m interested in Android Mobile Applications and kotlin. 
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Android Projects
+- 👀 I’m interested in Laravel Project and PHP. 
+- 🌱 I’m currently learning microservices architecture.
+- 💞️ I’m looking to collaborate on Laravel Projects
 - 📫 How to reach me ...
 
 <!---
